@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Comosophillia
+   # abhinav-vadali
 
    # Input:
    # p, principal amount
